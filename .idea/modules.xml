@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MenghitungLuas.iml" filepath="$PROJECT_DIR$/MenghitungLuas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenghitungLuasPinky.iml" filepath="$PROJECT_DIR$/MenghitungLuasPinky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
